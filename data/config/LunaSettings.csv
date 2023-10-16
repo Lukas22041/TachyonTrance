@@ -1,0 +1,10 @@
+fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
+,,,,,,,,
+mainHeader,Tachyon Trance,Header,Tachyon Trance,,,,,
+mainText,,Text,"Adds custom made ambient music to the starsector campaign. 
+Each Archetype of starsystem gets its own variety of songs made to fit them. The configs below allow disabling or enabling the ones you want.
+
+The Music is composed by [Haplogynae]. (https://soundcloud.com/haplogynae)",,,,,
+enableRuinsMusic,Enable Ruins Music,Boolean,true,,Enables the custom music made for systems filled with ruins.,,,
+enableDerelictMusic,Enable Derelict Music,Boolean,true,,Enables the custom music made for systems filled with derelicts.,,,
+enableRemnantsMusic,Enable Remnant Music,Boolean,true,,Enables the custom music made for systems with active remnant activity.,,,

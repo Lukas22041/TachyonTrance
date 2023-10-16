@@ -1,0 +1,32 @@
+{
+
+#collapseopen MUSIC
+	
+"music":{
+		####################################
+		# "source" can also be a directory #
+		####################################	
+
+		"tachyon_trance_ruins":[
+			{"file":"Ruins_1.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Ruins_2.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Ruins_3.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Ruins_4.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Ruins_5.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+		],
+		
+		"tachyon_trance_derelicts":[
+			{"file":"Derelict_1.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Derelict_2.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Derelict_3.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Derelict_4.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+		],
+		
+		"tachyon_trance_remnants":[
+			{"file":"Derelict_1.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Derelict_2.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Derelict_3.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+			{"file":"Derelict_4.ogg","source":"sounds/tachyon_trance/music","volume":0.8},
+		],
+	},
+}
