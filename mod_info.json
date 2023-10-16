@@ -1,0 +1,28 @@
+{
+    "id":"tachyon_trance", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+	"name":"Tachyon Trance", # Displayed to the player
+	"author":"Haplogynae & Lukas04",
+    "utility":"false",
+	"version":"1.0.0",
+	"description":"A collection of custom and for starsector made campaign music. Plays Themes in their relevant locations.",
+    "gameVersion": "0.96a-RC10", 
+  	"jars":["jars/TachyonTrance.jar"],
+  	"modPlugin":"author.modname.TemplateModPlugin",
+	  	"dependencies": [
+        #{
+        #    "id": "lw_lazylib",
+        #    "name": "LazyLib",
+        #    #"version": "2.7b"
+        #},
+        #{
+        #    "id": "MagicLib",
+        #    "name": "MagicLib",
+        #    #"version": "0.34"
+        #},
+        #{
+        #    "id": "shaderLib",
+        #    "name": "GraphicsLib",
+        #    #"version": "1.5.1"
+        #}
+    ],
+}
